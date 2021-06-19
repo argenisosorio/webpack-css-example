@@ -2,8 +2,8 @@
 
 ## Project setup
 
-npm install
+$ npm install
 
 ## Compiles and minifies for production
 
-npm run build
+$ npm run build
