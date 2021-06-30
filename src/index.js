@@ -1,3 +1,4 @@
+import "./index.css";
 alert("Hello world 1!");
 alert("Hello world 2!");
 alert("Hello world 3!");
